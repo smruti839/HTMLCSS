@@ -1,0 +1,392 @@
+<!-- HTML Basic -->
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>Welcome To HTML5</body>
+</html>
+
+<!-- Basic Meta and head tag -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    Welcome To HTML
+</body>
+
+</html>
+
+<!-- Heading tags in HTML -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    <h1>What is HTML</h1>
+    <h2>What is HTML</h2>
+    <h3>What is HTML</h3>
+    <h4>What is HTML</h4>
+    <h5>What is HTML</h5>
+    <h6>What is HTML</h6>
+</body>
+
+</html>
+
+<!-- Paragraph Tag -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    <p>Lorem ipsum dolor sit amet, <em><b>consectetur adipisicing elit</b></em>. Repudiandae saepe quibusdam perspiciatis animi voluptates libero veniam sapiente ipsa assumenda reprehenderit quidem unde numquam, voluptatibus expedita maiores quia modi consequatur asperiores?
+    Sapiente ex dignissimos voluptatibus doloribus laudantium, ipsa temporibus quibusdam sit magni illo nostrum iste deserunt pariatur molestias recusandae eos eveniet. Laboriosam eaque, amet fugiat eum possimus magnam porro quos ratione.</p>
+</body>
+
+</html>
+
+<!-- Anchor tag With Href and Without HREf -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    <a href="https://www.google.co.in">Click Here</a>
+</body>
+
+</html>
+
+<!-- Unordered List and Ordered List -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    <ul>
+        <li>Apple</li>
+        <li>Orange</li>
+        <li>Kiwi</li>
+        <li>Banana</li>
+    </ul>
+</body>
+
+</html>
+
+<!-- Image tag example -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    <img src="./images/1200px-Bosch-logotype.svg.png" >
+</body>
+
+</html>
+
+<!-- Image tag example With Anchor Tag-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    <a href="https://www.google.co.in">
+    <img src="./images/1200px-Bosch-logotype.svg.png" >
+</a>
+</body>
+
+</html>
+
+
+<!-- Simple form for Username and Password-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    <label for="username">Username</label>
+    <input id="username" type="text">
+    <br>
+    <label for="password">Password</label>
+    <input type="password">
+    <br>
+    <button>Signin</button>
+</body>
+
+</html>
+
+<!-- Form Tag and Submit Action-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    <form action="https://www.google.co.in">
+        <label for="username">Username</label>
+        <input id="username" type="text">
+        <br>
+        <label for="password">Password</label>
+        <input type="password">
+        <br>
+        <input type="submit">
+    </form>
+</body>
+
+</html>
+
+
+<!-- Inline Style-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    <div class="box">
+        <div class="box-title">
+            <h3 style="color: red;">What is HTML</h3>
+        </div>
+        <div class="box-content">
+            <p>HTML Stans for Hypertext Markup Language</p>
+        </div>
+    </div>
+    <div class="box">
+        <div class="box-title">
+            <h3 style="color: red;">What is CSS</h3>
+        </div>
+        <div class="box-content">
+            <p>CSS Stands for Cascading Style Sheet</p>
+        </div>
+    </div>
+    <div class="box">
+        <div class="box-title">
+            <h3 style="color: red;">What is JS</h3>
+        </div>
+        <div class="box-content">
+            <p>JS Stands for JavaScript</p>
+        </div>
+    </div>
+</body>
+
+</html>
+
+
+<!-- Internal Style-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <style>
+        .box-title{
+            color: red;
+        }
+    </style>
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    <div class="box">
+        <div class="box-title">
+            <h3 >What is HTML</h3>
+        </div>
+        <div class="box-content">
+            <p>HTML Stans for Hypertext Markup Language</p>
+        </div>
+    </div>
+    <div class="box">
+        <div class="box-title">
+            <h3 >What is CSS</h3>
+        </div>
+        <div class="box-content">
+            <p>CSS Stands for Cascading Style Sheet</p>
+        </div>
+    </div>
+    <div class="box">
+        <div class="box-title">
+            <h3 >What is JS</h3>
+        </div>
+        <div class="box-content">
+            <p>JS Stands for JavaScript</p>
+        </div>
+    </div>
+</body>
+
+</html>
+
+
+<!-- Internal Style-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <style>
+        .box-title{
+            width: 100%;
+            color: red;
+            text-align: center;
+            border-bottom: 2px solid blue;
+        }
+
+        .box{
+            float: left;
+        }
+        .box{
+            width: 200px;
+            height: 200px;
+            border: 2px solid red;
+            margin: 10px;
+            border-radius: 10px;
+        }
+
+        .box-content{
+            padding: 10px;
+        }
+
+    </style>
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    <div class="box">
+        <div class="box-title">
+            <h3 >What is HTML</h3>
+        </div>
+        <div class="box-content">
+            <p>HTML Stans for Hypertext Markup Language</p>
+        </div>
+    </div>
+    <div class="box">
+        <div class="box-title">
+            <h3 >What is CSS</h3>
+        </div>
+        <div class="box-content">
+            <p>CSS Stands for Cascading Style Sheet</p>
+        </div>
+    </div>
+    <div class="box">
+        <div class="box-title">
+            <h3 >What is JS</h3>
+        </div>
+        <div class="box-content">
+            <p>JS Stands for JavaScript</p>
+        </div>
+    </div>
+</body>
+
+</html>
+
+
+<!-- External CSS Style-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="UI5 Training">
+    <meta name="keywords" content="HTML, CSS, JavaScript, UI5">
+    <meta name="author" content="Avik">
+    <link rel="stylesheet" href="style.css">
+
+    <title>UI5 Training</title>
+</head>
+
+<body>
+    <div class="box">
+        <div class="box-title">
+            <h3 >What is HTML</h3>
+        </div>
+        <div class="box-content">
+            <p>HTML Stans for Hypertext Markup Language</p>
+        </div>
+    </div>
+    <div class="box">
+        <div class="box-title">
+            <h3 >What is CSS</h3>
+        </div>
+        <div class="box-content">
+            <p>CSS Stands for Cascading Style Sheet</p>
+        </div>
+    </div>
+    <div class="box">
+        <div class="box-title">
+            <h3 >What is JS</h3>
+        </div>
+        <div class="box-content">
+            <p>JS Stands for JavaScript</p>
+        </div>
+    </div>
+</body>
+
+</html>

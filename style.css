@@ -1,0 +1,21 @@
+.box-title{
+    width: 100%;
+    color: red;
+    text-align: center;
+    border-bottom: 2px solid blue;
+}
+
+.box{
+    float: left;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.box-content{
+    padding: 10px;
+}
