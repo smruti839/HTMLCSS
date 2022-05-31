@@ -81,3 +81,16 @@
 .table tbody tr{
     background-color: #f9fafb;
 }
+
+.flex-container{
+    display: flex;
+    background-color: #636363;
+    justify-content: space-evenly;
+}
+
+.flex-container div{
+    border: 1px solid black;
+    background-color: #ffffff;
+    padding: 20px;
+    margin-right: 10px;
+}
