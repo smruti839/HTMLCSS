@@ -94,3 +94,18 @@
     padding: 20px;
     margin-right: 10px;
 }
+
+.flex-box-example{
+    display: flex;
+    background-color: #636363;
+    justify-content: space-between;
+
+}
+
+.flex-box-example div{
+    padding: 20px;
+    margin-right: 10px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    border-radius: 10px;
+}
